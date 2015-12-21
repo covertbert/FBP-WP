@@ -1,0 +1,45 @@
+// Imports
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+// Variables
+$josefin-sans: 'Josefin Sans', sans-serif;
+
+$prox-bold: 'Proxima Nova Bold', sans-serif;
+$prox-bold-it: 'Proxima Nova Bold It', sans-serif;
+$prox-light: 'Proxima Nova Bold Light', sans-serif;
+$prox-light-it: 'Proxima Nova Bold Light It', sans-serif;
+$prox-reg: 'Proxima Nova Reg', sans-serif;
+$prox-reg-it: 'Proxima Nova Reg It', sans-serif;
+
+@font-face {
+	font-family: 'Proxima Nova Bold';
+	src: url('fonts/ProximaNovaBold.otf');
+}
+
+@font-face {
+	font-family: 'Proxima Nova Bold It';
+	src: url('fonts/ProximaNovaBoldIt.otf');
+}
+
+@font-face {
+	font-family: 'Proxima Nova Light';
+	src: url('fonts/ProximaNovaLight.otf');
+}
+
+@font-face {
+	font-family: 'Proxima Nova Light It';
+	src: url('fonts/ProximaNovaLightIt.otf');
+}
+
+@font-face {
+	font-family: 'Proxima Nova Reg';
+	src: url('fonts/ProximaNovaReg.otf');
+}
+
+@font-face {
+	font-family: 'Proxima Nova Reg It';
+	src: url('fonts/ProximaNovaRegIt.otf');
+}
+
+
+

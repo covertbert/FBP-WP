@@ -1,0 +1,24 @@
+{
+  "name": "wordpress-gulp-boilerplate",
+  "version": "1.0.0",
+  "description": "This is a barebones wordpress boilerplate with a few essential gulp tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bertie Blackman",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.7.12",
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.3",
+    "gulp-sass": "^2.0.2",
+    "gulp-sourcemaps": "^1.5.2",
+    "inquirer": "^0.8.5",
+    "run-sequence": "^1.1.1"
+  }
+}
